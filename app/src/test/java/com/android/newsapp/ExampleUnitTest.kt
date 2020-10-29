@@ -1,4 +1,4 @@
-package com.androiddevs.mvvmnewsapp
+package com.android.newsapp
 
 import org.junit.Test
 

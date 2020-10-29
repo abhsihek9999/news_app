@@ -1,4 +1,4 @@
-package com.androiddevs.mvvmnewsapp
+package com.android.newsapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
